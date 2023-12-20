@@ -1,6 +1,6 @@
 [project]
 name = "calculator_mgaidy"
-version = "0.0.3"
+version = "0.0.4"
 authors = [
   { name="Mindaugas", email="mindaugas9507@gmail.com" },
 ]

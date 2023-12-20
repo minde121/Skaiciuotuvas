@@ -1,4 +1,4 @@
-from calculator_package.calculator.calculator import Calculator
+from calculator_mgaidy.calculator import Calculator
 import pytest
 
 
